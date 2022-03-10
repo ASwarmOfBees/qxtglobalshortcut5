@@ -1,0 +1,9 @@
+*.obj
+*.tlog
+*.log
+moc_*.cpp
+*.pdb
+*.ilk
+*.suo
+*.user
+*.exp
