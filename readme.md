@@ -35,7 +35,10 @@ connect(shortcut, &QxtGlobalShortcut::activated,
 
 1. 打开qxtglobalshortcut5.sln
 2. 编译qxtglobalshortcut5项目，生成qxtglobalshortcut5.dll
-3. 编译test项目，执行可执行程序test.exe，按Alt+1组合键，弹出如下图
+3. 编译test项目
+
+#### 2、测试
+1. 执行可执行程序test.exe，按Alt+1组合键，弹出如下图
 
 
 ![image](https://user-images.githubusercontent.com/14138754/157586512-390396e3-0206-4f04-a7f1-23b33b9e32b5.png)
